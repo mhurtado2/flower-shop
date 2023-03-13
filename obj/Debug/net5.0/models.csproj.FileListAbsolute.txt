@@ -1,0 +1,16 @@
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.exe
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.deps.json
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.runtimeconfig.json
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.runtimeconfig.dev.json
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.dll
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\ref\models.dll
+C:\Users\15204\workspace\csharp\models\bin\Debug\net5.0\models.pdb
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.csproj.AssemblyReference.cache
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.AssemblyInfoInputs.cache
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.AssemblyInfo.cs
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.csproj.CoreCompileInputs.cache
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.dll
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\ref\models.dll
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.pdb
+C:\Users\15204\workspace\csharp\models\obj\Debug\net5.0\models.genruntimeconfig.cache
